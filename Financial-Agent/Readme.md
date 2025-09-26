@@ -1,3 +1,4 @@
+ONLY INSTRUCTIONS FOR GIT :
 Step 1: Create a .gitignore File
 This is a crucial first step to ensure you don't accidentally upload your secret API key or other unnecessary files to a public repository.
 
